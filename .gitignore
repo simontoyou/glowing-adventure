@@ -1,0 +1,26 @@
+Ignores for Visual Studio Solutions and Projects
+
+# Visual Studio 2017+ cache/settings
+.vs/
+*.suo
+
+# Build & Project Folders
+[Dd]ebug/
+[Rr]elease/
+*.obj
+*.exe
+*.dll
+*.pdb
+*.sdf
+*.user
+*.bak
+*.ncb
+*.opendb
+*.log
+*.ipch
+
+# NuGet packages
+/packages/
+
+# Temporary files
+~$*
